@@ -1,4 +1,4 @@
-# ¡Hola! Soy ERICK ALONSO VALDOVINOS OLMOS 👋
+# ¡Hola! Mi nombre es ERICK ALONSO VALDOVINOS OLMOS 👋
 
 ### 🚀 Sobre mí
 - 🎓 Actualmente cursando la carrera de **Ingeniería en Desarrollo de Software**.
